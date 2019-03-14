@@ -1,7 +1,7 @@
 Summary
 -------
 
-I  - Default template directory content
+I  - Default template directory c0ontent
 II - Expected series format
 
 ---
